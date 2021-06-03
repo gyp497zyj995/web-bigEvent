@@ -6,7 +6,7 @@ $(function () {
     });
 
     // 点击 去登录 a标签
-    $("#link-reg").on('click', function () {
+    $("#link-r eg").on('click', function () {
         $("#Reg-box").hide();
         $("#login-box").show();
     })
